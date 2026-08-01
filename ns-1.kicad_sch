@@ -8120,6 +8120,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C2943443"
+			(at 25.4 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dbdc9705-2900-4259-ada1-4f20a7aded69")
 		)
@@ -8339,6 +8350,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C917030"
+			(at 189.23 57.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6f758c47-7160-4ac8-9f4c-15d0afa40df5")
 		)
@@ -8409,6 +8431,17 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 54.61 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C2906874"
+			(at 54.61 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8752,6 +8785,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 189.23 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C917030"
+			(at 189.23 95.25 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9105,6 +9149,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C917030"
+			(at 246.38 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e8ed3bfa-0926-496a-a078-aeb9b455027e")
 		)
@@ -9200,6 +9255,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 189.23 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C917030"
+			(at 189.23 76.2 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9447,6 +9513,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C122970"
+			(at 262.89 139.7 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "20f303d3-e0b6-44bd-bb75-111fde59edb3")
 		)
@@ -9551,6 +9628,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C917030"
+			(at 246.38 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1c3b39ab-b8e9-4ed2-956b-b189eb5f9698")
 		)
@@ -9646,6 +9734,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 208.28 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C917030"
+			(at 208.28 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9817,6 +9916,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C317926"
+			(at 121.92 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "76d4bcae-d870-4540-8edb-dcec8c5fe9f5")
 		)
@@ -9964,6 +10074,17 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 212.09 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C122970"
+			(at 212.09 139.7 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10193,6 +10314,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C917030"
+			(at 208.28 95.25 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "75d13a67-ee04-46bd-af22-3745e148bc59")
 		)
@@ -10264,6 +10396,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 203.2 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C22435941"
 			(at 203.2 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -11064,6 +11207,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C2906874"
+			(at 54.61 105.41 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4e79b11c-4449-4fb1-bbb0-35ab2fa489d6")
 		)
@@ -11248,6 +11402,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C917030"
+			(at 208.28 76.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0dccb3c3-17fd-48f3-b55c-5f8f79317b23")
 		)
@@ -11343,6 +11508,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 208.28 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C917030"
+			(at 208.28 57.15 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11864,6 +12040,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" ""
+			(at 254 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0d6bf512-6d8b-43fe-9621-a0c12bce00d4")
 		)
@@ -11959,6 +12146,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 189.23 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C917030"
+			(at 189.23 38.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12308,6 +12506,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C917030"
+			(at 227.33 57.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "942c454c-8d32-42ea-8a94-b7be317f4640")
 		)
@@ -12549,6 +12758,17 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 186.69 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C122970"
+			(at 186.69 154.94 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12900,6 +13120,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C917030"
+			(at 246.38 57.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "fa85d9bc-a4ae-4bf2-bbd5-50f56e5c7128")
 		)
@@ -12971,6 +13202,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 177.8 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C22435941"
 			(at 177.8 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -13419,6 +13661,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 227.33 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C917030"
+			(at 227.33 95.25 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14524,6 +14777,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C917030"
+			(at 246.38 76.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "28b58776-51fe-428a-b846-fd9fe7e00694")
 		)
@@ -14647,7 +14911,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_Amphenol_12401948E412A"
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12"
 			(at 36.83 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -14670,6 +14934,17 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+			(at 33.02 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C3197899"
 			(at 33.02 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -14945,6 +15220,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C917030"
+			(at 227.33 76.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "54f6e1b2-f57f-4458-a367-179b7bcec0c2")
 		)
@@ -15206,6 +15492,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C917030"
+			(at 227.33 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "08c1d02e-1b73-4f28-9897-1c007da394f1")
 		)
@@ -15445,6 +15742,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C22435941"
+			(at 228.6 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0937098e-f990-4117-b1be-94df05e01af0")
 		)
@@ -15516,6 +15824,17 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 237.49 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C122970"
+			(at 237.49 139.7 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15773,6 +16092,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C122970"
+			(at 186.69 139.7 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "eb200788-753b-48f1-99ab-bc68018a38b7")
 		)
@@ -15923,6 +16253,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 177.8 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C22435941"
 			(at 177.8 157.48 0)
 			(hide yes)
 			(show_name no)
