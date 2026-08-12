@@ -1,2 +1,4 @@
 ns-1-backups/
 *.lck
+hardware/symbols/*.bak
+hardware/production/
