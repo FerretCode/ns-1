@@ -728,7 +728,7 @@
         "uuid": "978de24d-6500-499f-ae29-c28fdde180f3"
       }
     ],
-    "used_designators": "C1-8,R4-8,H5-8",
+    "used_designators": "U3,#PWR32,#PWR35-50,C1,C5,C7,C9-28,FB2,Y1,SW21-22,R9-10",
     "variants": []
   },
   "sheets": [
@@ -739,6 +739,14 @@
     [
       "7b72264a-a558-4c05-8000-3cde0656adce",
       "Teensy Audio Shield"
+    ],
+    [
+      "f94ac7b7-4881-4fda-aa82-cd8ccf8b45ed",
+      "teensy"
+    ],
+    [
+      "a64ff1e5-217a-47dd-9136-ffaba1243d42",
+      "STM32H7"
     ]
   ],
   "text_variables": {},
