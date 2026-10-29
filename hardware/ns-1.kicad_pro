@@ -729,7 +729,7 @@
         "uuid": "978de24d-6500-499f-ae29-c28fdde180f3"
       }
     ],
-    "used_designators": "U2,U4,J8-13,FB3,#PWR1-5,#PWR19,#PWR36,#PWR51-64,H5-8,R4-8,R11-12,C1-8,C28-39",
+    "used_designators": "D1-16,#PWR6-18,#PWR20-21,#PWR26-29,#PWR31,#PWR33-34,C2-4,C6,C8,C40-41,R1-8,#FLG1,J6-7,RV1-5,SW1-20,FB1,U1,U5-6",
     "variants": []
   },
   "sheets": [
@@ -742,12 +742,16 @@
       "SGTL5000"
     ],
     [
-      "f94ac7b7-4881-4fda-aa82-cd8ccf8b45ed",
-      "teensy"
+      "992bb2e3-ed1b-4e7d-9201-5dcf9e53f1a9",
+      "Power"
     ],
     [
       "a64ff1e5-217a-47dd-9136-ffaba1243d42",
       "STM32H7"
+    ],
+    [
+      "5508726e-f35f-4d6c-89c3-88802ab269e3",
+      "Peripherals"
     ]
   ],
   "text_variables": {},
