@@ -570,6 +570,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -728,7 +729,7 @@
         "uuid": "978de24d-6500-499f-ae29-c28fdde180f3"
       }
     ],
-    "used_designators": "U3,#PWR32,#PWR35-50,C1,C5,C7,C9-28,FB2,Y1,SW21-22,R9-10",
+    "used_designators": "U2,U4,J8-13,FB3,#PWR1-5,#PWR19,#PWR36,#PWR51-64,H5-8,R4-8,R11-12,C1-8,C28-39",
     "variants": []
   },
   "sheets": [
@@ -738,7 +739,7 @@
     ],
     [
       "7b72264a-a558-4c05-8000-3cde0656adce",
-      "Teensy Audio Shield"
+      "SGTL5000"
     ],
     [
       "f94ac7b7-4881-4fda-aa82-cd8ccf8b45ed",
