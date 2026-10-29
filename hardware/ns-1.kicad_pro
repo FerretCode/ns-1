@@ -285,7 +285,16 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "power_pin_not_driven|2400300|533400|100c67cc-feff-4c35-bc24-fb5a04aa665e|00000000-0000-0000-0000-000000000000|/978de24d-6500-499f-ae29-c28fdde180f3/a64ff1e5-217a-47dd-9136-ffaba1243d42|/978de24d-6500-499f-ae29-c28fdde180f3/a64ff1e5-217a-47dd-9136-ffaba1243d42|",
+        ""
+      ],
+      [
+        "power_pin_not_driven|2552700|584200|100c67cc-feff-4c35-bc24-fb5a04aa665e|00000000-0000-0000-0000-000000000000|/978de24d-6500-499f-ae29-c28fdde180f3/a64ff1e5-217a-47dd-9136-ffaba1243d42|/978de24d-6500-499f-ae29-c28fdde180f3/a64ff1e5-217a-47dd-9136-ffaba1243d42|",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -538,13 +547,13 @@
         "wire_width": 6
       },
       {
-        "clearance": 0.2,
+        "diff_pair_gap": 0.2032,
         "diff_pair_width": 0.2032,
-        "name": "DP",
+        "name": "USB",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.1554,
+        "track_width": 0.2703,
         "tuning_profile": ""
       }
     ],
@@ -555,12 +564,16 @@
     "netclass_assignments": null,
     "netclass_patterns": [
       {
-        "netclass": "DP",
-        "pattern": "/D-"
+        "netclass": "USB",
+        "pattern": "/Power/D-"
       },
       {
-        "netclass": "Default",
-        "pattern": "/D+"
+        "netclass": "USB",
+        "pattern": "/Power/D+"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/Power/UNPROT*"
       }
     ]
   },
@@ -570,7 +583,6 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -729,7 +741,7 @@
         "uuid": "978de24d-6500-499f-ae29-c28fdde180f3"
       }
     ],
-    "used_designators": "D1-16,#PWR6-18,#PWR20-21,#PWR26-29,#PWR31,#PWR33-34,C2-4,C6,C8,C40-41,R1-8,#FLG1,J6-7,RV1-5,SW1-20,FB1,U1,U5-6",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
@@ -752,6 +764,10 @@
     [
       "5508726e-f35f-4d6c-89c3-88802ab269e3",
       "Peripherals"
+    ],
+    [
+      "731eea9e-591b-4525-978d-55206537d3ff",
+      "PSRAM"
     ]
   ],
   "text_variables": {},
