@@ -741,7 +741,7 @@
         "uuid": "978de24d-6500-499f-ae29-c28fdde180f3"
       }
     ],
-    "used_designators": "",
+    "used_designators": "R15-21,J1,#PWR25,#PWR30,#PWR66,C47-48",
     "variants": []
   },
   "sheets": [
@@ -768,6 +768,10 @@
     [
       "731eea9e-591b-4525-978d-55206537d3ff",
       "PSRAM"
+    ],
+    [
+      "112a2480-f535-4bf5-a263-7ab3f770388c",
+      "SD Card"
     ]
   ],
   "text_variables": {},
