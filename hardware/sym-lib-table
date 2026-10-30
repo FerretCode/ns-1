@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "teensy") (type "KiCad") (uri "${KIPRJMOD}/symbols/teensy.kicad_sym") (options "") (descr ""))
 	(lib (name "teensy audio shield") (type "KiCad") (uri "${KIPRJMOD}/symbols/teensy4.0_audioshield_revd.kicad_sym") (options "") (descr ""))
+	(lib (name "easyeda2kicad") (type "KiCad") (uri "${KIPRJMOD}/symbols/easyeda2kicad.kicad_sym") (options "") (descr ""))
 )

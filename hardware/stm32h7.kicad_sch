@@ -9330,6 +9330,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C1525"
+			(at 35.56 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "59764bac-f263-4144-b4b0-b07190331278")
 		)
@@ -9402,6 +9413,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 27.94 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C52923"
 			(at 27.94 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -9494,6 +9516,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C1525"
+			(at 36.83 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "04d60494-f28c-4dc4-92b4-12fa29231c96")
 		)
@@ -9566,6 +9599,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 92.71 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C1525"
 			(at 92.71 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -9892,6 +9936,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C1548"
+			(at 92.71 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2939cd5d-723c-40bc-b446-5dcd91e6120f")
 		)
@@ -10133,6 +10188,17 @@
 		)
 		(property "ESR" "600m"
 			(at 19.05 51.9431 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C52923"
+			(at 24.13 49.53 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10455,7 +10521,7 @@
 				)
 			)
 		)
-		(property "LCSC PN" "C115357"
+		(property "LCSC PN" "C202388"
 			(at 45.72 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -10548,6 +10614,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C1525"
+			(at 175.26 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "41017170-61c4-47b9-be49-5de0088de6ad")
 		)
@@ -10630,6 +10707,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C25744"
+			(at 35.56 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c7086763-e95a-4daf-b455-0672fca45b30")
 		)
@@ -10702,6 +10790,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 46.99 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C1525"
 			(at 46.99 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -10872,6 +10971,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C1525"
+			(at 81.28 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "38af55ea-2894-4159-8340-e80efc1809ac")
 		)
@@ -10944,6 +11054,17 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 146.05 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C25105"
 			(at 146.05 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -11194,6 +11315,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C1525"
+			(at 104.14 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9c2248d2-b5e2-4428-9bc0-51db080f5bf6")
 		)
@@ -11266,6 +11398,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 24.13 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C23733"
 			(at 24.13 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -11426,6 +11569,17 @@
 		)
 		(property "Description" "STMicroelectronics Arm Cortex-M7 MCU, 1024KB flash, 564KB RAM, 550 MHz, 1.62-3.6V, 114 GPIO, LQFP144"
 			(at 148.59 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C730146"
+			(at 148.59 105.41 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12100,6 +12254,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C1525"
+			(at 115.57 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c5b65482-2995-44a2-9e39-43c7ab92de6c")
 		)
@@ -12192,6 +12357,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C52923"
+			(at 53.34 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5ae210f1-fcb8-489b-87bc-dfb56d533cd4")
 		)
@@ -12263,6 +12439,17 @@
 		)
 		(property "Description" "Ferrite bead, small symbol"
 			(at 162.56 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C14709"
+			(at 162.56 22.86 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12433,6 +12620,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C1525"
+			(at 149.86 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "00ef6357-5f1c-4332-94f9-2f804560c321")
 		)
@@ -12504,6 +12702,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 220.98 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C23630"
 			(at 220.98 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -12989,6 +13198,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C1525"
+			(at 138.43 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dd33788e-989a-4bd4-840e-b39f0ee5e2ce")
 		)
@@ -13061,6 +13281,17 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 60.96 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C25744"
 			(at 60.96 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -13151,7 +13382,7 @@
 				)
 			)
 		)
-		(property "LCSC PN" "C115357"
+		(property "LCSC PN" "C202388"
 			(at 25.4 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -13450,6 +13681,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C1525"
+			(at 25.4 151.13 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1d1a0a16-2208-43af-8827-106e6edde5f3")
 		)
@@ -13532,6 +13774,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C52923"
+			(at 190.5 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5d01b83e-3b59-4e71-89a2-a51a95a32d51")
 		)
@@ -13604,6 +13857,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 69.85 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C1525"
 			(at 69.85 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -13774,6 +14038,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C598540"
+			(at 255.27 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "10"
 			(uuid "80518b88-a441-4114-a6dd-5a2afc0aaf8e")
 		)
@@ -13870,6 +14145,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 58.42 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C1525"
 			(at 58.42 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -14041,6 +14327,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C25105"
+			(at 181.61 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ff349247-048c-4369-b662-1b07587b365d")
 		)
@@ -14123,6 +14420,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C1525"
+			(at 127 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a645fbfb-7019-4344-bf4d-41e655f60d7c")
 		)
@@ -14195,6 +14503,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 80.01 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C1548"
 			(at 80.01 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -14365,6 +14684,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C23630"
+			(at 226.06 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4807df2c-5742-4161-969b-61849289129a")
 		)
@@ -14449,6 +14779,17 @@
 		)
 		(property "ESR" "600m"
 			(at 30.48 51.9431 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C1525"
+			(at 35.56 49.53 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

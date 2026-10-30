@@ -1542,6 +1542,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C52923"
+			(at 109.22 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c453dd40-22e7-4c19-a832-22a99ff7d256")
 		)
@@ -1703,6 +1714,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C52923"
+			(at 158.75 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7071590c-d3c1-4dba-b477-f996edfea917")
 		)
@@ -1776,6 +1798,17 @@
 		)
 		(property "Description" "64 Mbit / 8M x 8-bits serial pseudo SRAM MEMORY, up to 133MHz, 2.7-3.6V supply, SOIC-8 (SOP-8)"
 			(at 99.06 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C3028887"
+			(at 99.06 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1964,6 +1997,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C3028887"
+			(at 176.53 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "8d0ae9ec-8c20-4853-8610-22be75cd7e09")
 		)
@@ -2064,6 +2108,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C25744"
+			(at 137.16 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "de6327d7-90c8-4b3a-8c6d-d95de42ba958")
 		)
@@ -2136,6 +2191,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 119.38 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C1525"
 			(at 119.38 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -2374,6 +2440,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 148.59 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C1525"
 			(at 148.59 85.09 0)
 			(hide yes)
 			(show_name no)

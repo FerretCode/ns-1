@@ -1709,6 +1709,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C114218"
+			(at 180.34 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "e4c19031-f9c8-486d-b12d-ce082a188457")
 		)
@@ -1897,6 +1908,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C25792"
+			(at 118.11 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "38d6ece6-3c4b-470b-bddd-4b35ef8affa8")
 		)
@@ -1969,6 +1991,17 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 128.27 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C25792"
 			(at 128.27 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -2139,6 +2172,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C96446"
+			(at 156.21 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2d4a9502-7b56-4527-adff-4f28537904a0")
 		)
@@ -2211,6 +2255,17 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 87.63 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C25792"
 			(at 87.63 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -2303,6 +2358,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C25744"
+			(at 77.47 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7d9cb32c-993f-4c4d-a6f6-cbaf4ade0816")
 		)
@@ -2385,6 +2451,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C25792"
+			(at 107.95 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8c9fe848-33d7-4527-8468-70b038591f09")
 		)
@@ -2456,6 +2533,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 146.05 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C1525"
 			(at 146.05 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -2617,6 +2705,17 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 97.79 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C25792"
 			(at 97.79 80.01 0)
 			(hide yes)
 			(show_name no)

@@ -1322,6 +1322,17 @@
 				)
 			)
 		)
+		(property "LCSC PN" "C25900"
+			(at 115.57 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8166f401-7f9a-48ec-9fca-53e9624e4306")
 		)
@@ -1928,6 +1939,17 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 107.95 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC PN" "C25900"
 			(at 107.95 58.42 0)
 			(hide yes)
 			(show_name no)
